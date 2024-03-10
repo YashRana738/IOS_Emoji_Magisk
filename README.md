@@ -15,14 +15,14 @@ Seamless switch between iOS and default Android emojis.
 -Enjoy the iOS emojis on your Android device!
 
 ## Changelog
-v1.17.4(v17)
+##v1.17.4(v17)
 - Updated To Latest IOS emojis
 - Ksu Supported
 - Added Android 14 Support
 - Probably Android 15 Preview Support (need testing)
 - IOS 17.4 Unofficial Emojis
 - Unicode 15.1
-v1.16.4(v16)
+##v1.16.4(v16)
 - Initial Release
 - Added Android 12 Support
 - Probably Android 13 Support (need testing)
